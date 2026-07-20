@@ -1,0 +1,17 @@
+{
+  "project_name": "Example 2 MW AI hall",
+  "site_location": "London, UK",
+  "target_it_kw": 2000,
+  "rack_count": 200,
+  "average_rack_kw": 10,
+  "max_rack_kw": 35,
+  "redundancy": "N+1",
+  "design_pue_target": 1.35,
+  "electricity_cost_per_kwh": 0.18,
+  "cooling_delta_t_c": 12,
+  "chilled_water_delta_t_c": 6,
+  "airflow_safety_factor": 1.1,
+  "white_space_allowance_m2_per_rack": 3.2,
+  "support_space_factor": 0.65,
+  "capex_cost_per_kw_usd": 10500
+}
